@@ -1,1 +1,1 @@
-this is a file of data
+This is a repository for our 641 Final project
